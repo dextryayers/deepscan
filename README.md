@@ -4,7 +4,6 @@ Penetration tools to find subdomains of a website quickly and simply, can also s
 ## Tools Ethical Hacking
 
 ### main features
-''' bash
 - deepscan subdomain
 - scanning port
 - provides information about the subdomain

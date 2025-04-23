@@ -217,7 +217,7 @@ def main():
     extracted = tldextract.extract(args.domain)
     main_domain = f"{extracted.domain}.{extracted.suffix}"
     
-    print(f"\n🔍 [DEEP SUBDOMAIN SCANNER BY: DextryAyers] Target: {main_domain}")
+    print(f"\n🔍 [DEEP SUBDOMAIN SCANNER BY: DextryAyers, V. 1.0] Target: {main_domain}")
     print(f"📌 Threads: {args.threads} | Port Scan: {'ON' if args.scan_ports else 'OFF'}")
     print("⏳ Scanning...\n")
     

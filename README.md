@@ -18,3 +18,15 @@ $ cd deepscan
 $ pip3 install -r requirements.txt
 $ python3 test.py -d tesla.com
 ```
+## Usage options :
+
+```
+1. Basic scan (subdomains + HTTP status)
+python3 test.py -d tesla.com
+
+2. Deep scan with port scanning
+python3 test.py -d tesla.com --scan-ports --deep-scan
+
+3. With custom wordlist and output
+python3 test.py -d tesla.com -w wordlist.txt -o results.json
+```

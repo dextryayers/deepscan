@@ -47,4 +47,4 @@ The developers are not responsible for misuse. Unauthorized scanning may violate
 Use ethically and legally.
 ```
 
-## By; DextryAyers, AniipID
+## By: DextryAyers, AniipID
